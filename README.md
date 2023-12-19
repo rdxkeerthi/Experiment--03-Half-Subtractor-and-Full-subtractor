@@ -63,12 +63,14 @@ assign borrow=~a&b|c&~(a^b);
 endmodule
 ```
 ## Truthtable
-![de4 4](https://github.com/rdxkeerthi/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473120/53e8bd5c-b626-4309-a298-bc1a27b8422a)
+![de4 4](https://github.com/rdxkeerthi/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473120/8d47ad8c-0bf0-4937-9812-c032fd6d77b1)
+
 ### RTL
-![de4 6](https://github.com/rdxkeerthi/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473120/91309a1f-500a-4ac2-ae7f-2e32324d18de)
+![de4 5](https://github.com/rdxkeerthi/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473120/8b022f29-2a87-4087-b9f9-ee540bf98957)
+
 
 ### Tiaming diagram
-![de4 5](https://github.com/rdxkeerthi/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473120/40763408-a133-4793-9801-d945a502063c)
+![de4 6](https://github.com/rdxkeerthi/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147473120/fef3409b-ad10-48ff-979e-f740a18c165c)
 
 
 ## Result:
